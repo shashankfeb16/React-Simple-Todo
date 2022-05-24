@@ -1,0 +1,32 @@
+.todo{
+    display: flex;
+    
+    margin-left: 41.5%;
+    margin-top: 20px;
+    
+    height: 30px;
+    width: 200px;
+    /* border: 1px solid black; */
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+}
+.todov{
+    margin-left: 120px;
+}
+.input{
+   
+    height: 30px;
+    width: 200px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 5px;
+}
+.btn{
+    margin-left: 10px;
+    height: 35px;
+    width: 35px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
